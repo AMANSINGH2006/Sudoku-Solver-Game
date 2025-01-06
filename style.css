@@ -3,7 +3,7 @@ body{
     background-size: 36% 90%; /* This makes sure the image covers the entire page */
     background-position: center; /* This centers the image */
     background-repeat: repeat; /* This prevents the image from repeating */
-    }
+}
 
 .Heading{
     width: 100%;
