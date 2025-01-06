@@ -8,5 +8,5 @@ Validation:- Ensures the puzzle is solvable before attempting a solution.
 Customizable:- Easy to adapt for different grid sizes or rules.
 
 **********How to clone repository*********
-1. git clone https://github.com/username/sudoku-solver.git
-2. cd sudoku-solver
+1. git clone https://github.com/AMANSINGH2006/Sudoku-Solver-Game.git
+2. cd Sudoku-Solver-Game
